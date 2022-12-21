@@ -6,7 +6,7 @@
     </linearGradient>
   </defs>
   <g id="day_image" transform="translate(-678 -214)">
-    <path id="Intersection_1" data-name="Intersection 1" d="M74,405V64a42,42,0,0,1,42-42H532a42,42,0,0,1,42,42V405Z" transform="translate(604 192)" fill="url(#linear-gradient)"/>
+    <path id="Intersection_1" data-name="Intersection 1" d="M74,405V64a10,42,0,0,1,42-42H532a10,42,0,0,1,42,42V405Z" transform="translate(604 192)" fill="url(#linear-gradient)"/>
     <g id="cloud2" transform="translate(319 24)">
       <rect id="Rectangle_8" data-name="Rectangle 8" width="161" height="66" rx="33" transform="translate(461 301)" fill="#fff"/>
       <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="38" cy="37.5" rx="38" ry="37.5" transform="translate(466 253)" fill="#fff"/>
