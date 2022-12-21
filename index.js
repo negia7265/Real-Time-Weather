@@ -6,8 +6,8 @@ const timeImage = document.querySelector('.card-top img')
 
 updateWeatherApp=(city)=>{
     const imageName=city.weather[0].icon;
-    const iconSrc=`http://openweathermap.org/img/wn/${imageName}@2x.png`
-    cityName.textContent=city.name;
+    const iconSrc=`https://openweathermap.org/img/wn/${imageName}@2x.png`
+    cityName.innerHTML='<h3>'+city.name+'</h3>';
     cardBody.innerHTML=`
     <div class="card-mid row">
                         <div class="col-8 text-center temp">
